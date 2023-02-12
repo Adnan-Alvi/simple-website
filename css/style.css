@@ -99,7 +99,7 @@ body{
 /* poster */
 
 #poster{
-    background-image: url(/images/poster.webp);
+    background-image: url(images/poster.webp);
     height: 500px;
     background-position:  center;
     display: flex;
